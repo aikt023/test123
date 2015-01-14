@@ -23,6 +23,9 @@ class AboutDialog extends Dialog {
 			}
 		);
 		
+		
+		
+		
 		Label label1= new Label("JUnit");
 		label1.setFont(new Font("dialog", Font.PLAIN, 36));
 		
